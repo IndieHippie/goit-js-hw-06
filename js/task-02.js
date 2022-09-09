@@ -6,8 +6,8 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
-const ingredientsEl = document.querySelector("#ingredients");
 
+const ingredientsEl = document.querySelector("#ingredients");
 console.log(ingredientsEl);
 console.log(ingredients);
 
